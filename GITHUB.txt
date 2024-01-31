@@ -17,4 +17,6 @@ Author: Kasinathan Elakki
 5. Policy report screen:
 <><>
 
-5. Policy status update screen
+6. Policy status update screen
+
+7. Confirmation screen details
