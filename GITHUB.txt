@@ -20,3 +20,6 @@ Author: Kasinathan Elakki
 6. Policy status update screen
 
 7. Confirmation screen details
+
+8. Update billing information 
+9. Update credit card details
